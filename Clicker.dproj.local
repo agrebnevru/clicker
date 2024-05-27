@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2010.07.30 21:41:18.487.pas,C:\Users\MyIE\Documents\RAD Studio\Projects\Unit1.pas=D:\Programming\delfi_2010\__Clicker\MainForm.pas</Transaction>
+    <Transaction>2010.07.30 21:41:18.487.dfm,C:\Users\MyIE\Documents\RAD Studio\Projects\Unit1.dfm=D:\Programming\delfi_2010\__Clicker\MainForm.dfm</Transaction>
+    <Transaction>2010.07.30 21:41:21.990.dproj,C:\Users\MyIE\Documents\RAD Studio\Projects\Project1.dproj=D:\Programming\delfi_2010\__Clicker\Clicker.dproj</Transaction>
+    <Transaction>2010.07.31 15:50:59.633.pas,D:\Programming\delfi_2010\__Clicker\Unit1.pas=D:\Programming\delfi_2010\__Clicker\ThreadCkickbl.pas</Transaction>
+  </Transactions>
+</BorlandProject>
